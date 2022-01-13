@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c60c854b-832e-43e6-8a09-63660a113298" name="Changes" comment="." />
+    <list default="true" id="c60c854b-832e-43e6-8a09-63660a113298" name="Changes" comment="Adding files to git ignore." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +92,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -183,6 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641728555824</updated>
       <workItem from="1641728556947" duration="12596000" />
+      <workItem from="1642055552733" duration="411000" />
     </task>
     <task id="LOCAL−00001" summary="Adding to gitignore class and IDE-config.">
       <created>1641744678423</created>
@@ -208,7 +211,19 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1641745284079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Adding files to git ignore.">
+      <created>1642055644704</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1642055644704</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Adding files to git ignore.">
+      <created>1642055960849</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1642055960849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,11 +239,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bowling Administration Program.&#10;Initial Commit." />
     <MESSAGE value="Adding to gitignore class and IDE-config." />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Adding files to git ignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding files to git ignore." />
   </component>
 </project>
